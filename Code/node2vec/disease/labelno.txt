@@ -1,0 +1,22 @@
+Neurological 1
+Cardiovascular 2
+Metabolic 3
+Hematological 4
+Ophthamological 5
+Cancer 6
+Muscular 7
+"Ear,Nose,Throat" 8
+Immunological 9
+Respiratory 10
+Unclassified 11
+Nutritional 12
+Skeletal 13
+Multiple 14
+Renal 15
+Endocrine 16
+Dermatological 17
+Psychiatric 18
+Connective tissue disorder 19
+Gastrointestinal 20
+Bone 21
+Developmental 22

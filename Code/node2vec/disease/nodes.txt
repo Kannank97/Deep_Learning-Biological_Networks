@@ -1,0 +1,1420 @@
+Id	Label	timeset	0	1
+55	Deafness		disease	Ear,Nose,Throat
+47	Leukemia		disease	Cancer
+114	Colon cancer		disease	Cancer
+45	Retinitis pigmentosa		disease	Ophthamological
+87	Diabetes mellitus		disease	Endocrine
+54	Cardiomyopathy		disease	Cardiovascular
+81	Mental retardation		disease	Neurological
+48	Blood group		disease	Hematological
+70	Obesity		disease	Nutritional
+137	Breast cancer		disease	Cancer
+223	Muscular dystrophy		disease	Muscular
+390	Charcot-Marie-Tooth disease		disease	Neurological
+220	Epilepsy		disease	Neurological
+325	Cataract		disease	Ophthamological
+68	Asthma		disease	Respiratory
+208	Complementary component deficiency		disease	Immunological
+213	Spinocereballar ataxia		disease	Neurological
+30	Alzheimer disease		disease	Neurological
+65	Hypertension		disease	Cardiovascular
+139	Prostate cancer		disease	Cancer
+185	Leigh syndrome		disease	Neurological
+202	Fanconi anemia		disease	Multiple
+302	Epidermolysis bullosa		disease	Dermatological
+364	Parkinson disease		disease	Neurological
+634	Thyroid carcinoma		disease	Cancer
+53	Myopathy		disease	Muscular
+86	Hemolytic anemia		disease	Hematological
+99	Myocardial infarction		disease	Cardiovascular
+117	Gastric cancer		disease	Cancer
+155	Lymphoma		disease	Cancer
+41	Anemia		disease	Hematological
+59	Pancreatic cancer		disease	Cancer
+130	Schizophrenia		disease	Psychiatric
+239	Thrombophilia		disease	Hematological
+285	Ehlers-Danlos syndrome		disease	Connective tissue disorder
+640	Spastic ataxia/paraplegia		disease	Neurological
+63	Severe combined immunodeciency		disease	Immunological
+125	Hypercholesterolemia		disease	Metabolic
+197	Ovarian cancer		disease	Cancer
+224	Hepatic adenoma		disease	Cancer
+236	Rheumatoid arthritis		disease	Connective tissue disorder
+414	Ectodermal dysplasia		disease	Dermatological
+420	Neuropathy		disease	Neurological
+448	Factor x deficiency		disease	Hematological
+822	Usher syndrome		disease	Multiple
+42	Cone dystrophy		disease	Ophthamological
+110	Long QT syndrome		disease	Cardiovascular
+122	Corneal dystrophy		disease	Ophthamological
+140	Spinal muscular atrophy		disease	Muscular
+146	Ichthyosis		disease	Dermatological
+186	Mitochondrial complex deciency		disease	Multiple
+266	Myasthenic syndrome		disease	Muscular
+324	Leber congenital amaurosis		disease	Ophthamological
+332	Hypothyroidism		disease	Endocrine
+411	Hirschsprung disease		disease	Gastrointestinal
+775	Renal cell carcinoma		disease	Cancer
+37	Coronary artery disease		disease	Cardiovascular
+120	Amyloidosis		disease	Neurological
+222	Osteoporosis		disease	Bone
+306	Epiphyseal dysplasia		disease	Bone
+367	Amyotrophic lateral sclerosis		disease	Neurological
+541	MODY		disease	Endocrine
+751	Dementia		disease	Neurological
+786	Pseudohypoaldosteronism		disease	Endocrine
+44	Macular dystrophy		disease	Ophthamological
+74	Spondyloepiphyseal dysplasia		disease	Skeletal
+109	Spherocytosis		disease	Hematological
+164	Renal tubular acidosis		disease	Renal
+187	Central hypoventilation syndrome		disease	Respiratory
+200	Melanoma		disease	Cancer
+215	Night blindness		disease	Ophthamological
+219	Ataxia		disease	Neurological
+245	Malaria		disease	Immunological
+327	Atrial fibrillation		disease	Cardiovascular
+384	Glioblastoma		disease	Cancer
+607	Macular degeneration		disease	Ophthamological
+661	Atopy		disease	Immunological
+736	Lipodystrophy		disease	Metabolic
+778	Bare lymphocyte syndrome		disease	Immunological
+940	Holoprosencephaly		disease	Developmental
+80	Renal tubular dysgenesis		disease	Renal
+119	Autoimmune disease		disease	Immunological
+121	Apolipoprotein deficiency		disease	Metabolic
+123	Hypertriglyceridemia		disease	Metabolic
+133	Systemic lupus erythematosus		disease	Immunological
+158	Migraine		disease	Neurological
+180	Maple syrup urine disease		disease	Metabolic
+199	Adenocarcinoma		disease	Cancer
+203	Wilms tumor		disease	Cancer
+235	Platelet defect/deficiency		disease	Hematological
+237	Myelogenous leukemia		disease	Cancer
+248	Endometrial carcinoma		disease	Cancer
+277	Osteopetrosis		disease	Bone
+280	HIV		disease	Immunological
+290	Osteoarthritis		disease	Connective tissue disorder
+314	Lung cancer		disease	Cancer
+340	Glaucoma		disease	Ophthamological
+369	Lissencephaly		disease	Neurological
+401	Keratosis palmoplantaria striata		disease	Dermatological
+419	Dejerine-Sottas disease		disease	Multiple
+423	Neutropenia		disease	Hematological
+429	Elliptocytosis		disease	Hematological
+441	Anterior segment anomalies and cataract		disease	Ophthamological
+447	Thrombocytopenia		disease	Hematological
+474	Bladder cancer		disease	Cancer
+497	Rhabdomyosarcoma		disease	Cancer
+570	Autism		disease	Psychiatric
+602	Huntington disease		disease	Neurological
+782	Waardenburg syndrome		disease	Multiple
+790	Meningioma		disease	Cancer
+851	Retinal cone dsytrophy		disease	Ophthamological
+938	Basal cell carcinoma		disease	Cancer
+968	Esophageal cancer		disease	Cancer
+43	Fundus albipunctatus		disease	Ophthamological
+78	Tetralogy of Fallot		disease	Cardiovascular
+79	Preeclampsia		disease	Cardiovascular
+101	Ichthyosiform erythroderma		disease	Dermatological
+113	Adenomas		disease	Cancer
+118	Turcot syndrome		disease	Cancer
+132	Squamous cell carcinoma		disease	Cancer
+165	Cutis laxa		disease	Connective tissue disorder
+177	Hypercholanemia		disease	Gastrointestinal
+189	Obsessive-compulsive disorder		disease	Psychiatric
+201	Nonsmall cell lung cancer		disease	Cancer
+216	Hypokalemic periodic paralysis		disease	Renal
+226	Ventricular tachycardia		disease	Cardiovascular
+227	Hyperparathyroidism		disease	Endocrine
+270	Nicotine addiction		disease	Psychiatric
+282	Achromatopsia		disease	Ophthamological
+292	Stickler syndrome		disease	Multiple
+328	Atrioventricular block		disease	Cardiovascular
+402	Arrhythmogenic right ventricular dysplasia		disease	Cardiovascular
+464	Walker-Warburg syndrome		disease	Multiple
+467	Dysfibrinogenemia		disease	Hematological
+527	Myoclonic epilepsy		disease	Neurological
+560	Erythrokeratoderma		disease	Dermatological
+574	Pituitary ACTH-secreting adenoma		disease	Cancer
+671	Myelodysplastic syndrome		disease	Muscular
+703	Epidermolytic hyperkeratosis		disease	Dermatological
+742	Lipoma		disease	Cancer
+744	Exudative vitreoretinopathy		disease	Ophthamological
+795	Neurofibromatosis		disease	Cancer
+796	Cleft palate		disease	Developmental
+856	Albinism		disease	Dermatological
+880	Pyruvate dehydrogenase deciency		disease	Metabolic
+919	Insulin resistance		disease	Metabolic
+953	Omenn syndrome		disease	Immunological
+984	Paragangliomas		disease	Cancer
+985	Pheochromocytoma		disease	Cancer
+36	Cerebral amyloid angiopathy		disease	Neurological
+38	HDL cholesterol level QTL		disease	Metabolic
+46	Stargardt disease		disease	Ophthamological
+100	Stroke		disease	Cardiovascular
+126	Abetalipoproteinemia		disease	Metabolic
+128	Hyperlipoproteinemia		disease	Metabolic
+131	Urolithiasise		disease	Metabolic
+154	Ataxia-telangiectasia		disease	Immunological
+156	T-cell lymphoblastic leukemia		disease	Cancer
+181	von Hippel-Lindau syndrome		disease	Cancer
+191	Cowden disease		disease	Cancer
+192	Polyposis		disease	Cancer
+209	Combined immunodeficiency		disease	Immunological
+210	Cerebellar ataxia		disease	Neurological
+211	Episodic ataxia		disease	Neurological
+217	Malignant hyperthermia susceptibility		disease	Neurological
+238	Homocystinuria		disease	Metabolic
+272	Myotonia congenita		disease	Muscular
+286	Osteogenesis imperfecta		disease	Bone
+287	Marfan syndrome		disease	Connective tissue disorder
+307	Intervertebral disc disease		disease	Neurological
+322	CPT deficiency, hepatic		disease	Metabolic
+323	Rubenstein-Taybi syndrome		disease	Multiple
+331	Graves disease		disease	Endocrine
+341	Peters anomaly		disease	Developmental
+370	Subcortical laminar heterotopia		disease	Neurological
+385	Becker muscular dystrophy		disease	Muscular
+408	Atelosteogenesis		disease	Connective tissue disorder
+417	Waardenburg-Shah syndrome		disease	Multiple
+426	Emery-Dreifuss muscular dystrophy		disease	Muscular
+446	Hemorrhagic diathesis		disease	Hematological
+454	Ectopia		disease	Ophthamological
+457	Weill-Marchesani syndrome		disease	Connective tissue disorder
+463	Viral infection		disease	Immunological
+466	Afibrinogenemia		disease	Hematological
+470	Jackson-Weiss syndrome		disease	Skeletal
+471	Kallmann syndrome		disease	Multiple
+472	Pfeiffer syndrome		disease	Skeletal
+476	Crouzon syndrome		disease	Skeletal
+483	Craniosynostosis		disease	Skeletal
+484	Saethre-Chotzen syndrome		disease	Developmental
+485	Cancer susceptibility		disease	Cancer
+491	Iridogoniodysgenesis		disease	Ophthamological
+493	Rieger syndrome		disease	Multiple
+526	Insomnia		disease	Psychiatric
+545	Alexander disease		disease	Multiple
+550	Growth hormone		disease	Endocrine
+559	Vohwinkel syndrome		disease	Multiple
+575	Acromegaly		disease	Endocrine
+616	Creutzfeldt-Jakob disease		disease	Neurological
+681	Polycythemia		disease	Hematological
+682	Thrombocythemia		disease	Hematological
+685	Jervell and Lange-Nielsen syndrome		disease	Multiple
+691	Gastrointestinal stromal tumor		disease	Cancer
+692	Germ cell tumor		disease	Cancer
+765	Angelman syndrome		disease	Developmental
+767	Rett syndrome		disease	Neurological
+772	Multiple endocrine neoplasia		disease	Cancer
+773	Parathyroid adenoma		disease	Cancer
+779	Multiple sclerosis		disease	Neurological
+784	Cafe-au-lait spots		disease	Cancer
+785	Muir-Torre syndrome		disease	Cancer
+793	Roussy-Levy syndrome		disease	Multiple
+797	Hypodontia		disease	Skeletal
+799	Parietal foramina		disease	Skeletal
+814	Central core disease		disease	Muscular
+815	Carney complex		disease	Multiple
+838	Neuroblastoma		disease	Cancer
+853	Medullary thyroid carcinoma		disease	Cancer
+858	Optic atrophy		disease	Ophthamological
+873	Coloboma, ocular		disease	Ophthamological
+930	Hyperprolinemia		disease	Metabolic
+963	Rh-negative blood type		disease	Hematological
+982	Liddle syndrome		disease	Renal
+1048	Goiter		disease	Endocrine
+1050	Loeys-Dietz syndrome		disease	Connective tissue disorder
+1053	Thyroid hormone resistance		disease	Endocrine
+1061	Sepsis		disease	Immunological
+1067	Li-Fraumeni syndrome		disease	Cancer
+1070	Osteosarcoma		disease	Cancer
+1145	Medulloblastoma		disease	Cancer
+1245	Asperger syndrome		disease	Psychiatric
+39	Tangier disease		disease	Metabolic
+62	Adenosine deaminase deficiency		disease	Immunological
+69	Beta-2-adrenoreceptor agonist, reduced response to		disease	Unclassified
+76	Leanness, inherited		disease	Nutritional
+77	Alagille syndrome		disease	Multiple
+98	Atherosclerosis		disease	Cardiovascular
+112	Adenoma, periampullary		disease	Cancer
+115	Desmoid disease, hereditary		disease	Cancer
+116	Gardner syndrome		disease	Cancer
+124	Hypoalphalipoproteinemia		disease	Metabolic
+127	Hypobetalipoproteinemia		disease	Metabolic
+129	Sea-blue histiocyte disease		disease	Hematological
+134	Aquaporin-1 deficiency		disease	Unclassified
+136	Androgen insensitivity		disease	Endocrine
+138	Perineal hypospadias		disease	Endocrine
+147	Placental steroid sulfatase deciency		disease	Metabolic
+157	Alternating hemiplegia of childhood		disease	Neurological
+166	Menkes disease		disease	Neurological
+167	Occipital horn syndrome		disease	Multiple
+184	GRACILE syndrome		disease	Metabolic
+188	Memory impairment		disease	Neurological
+198	Papillary serous carcinoma of the peritoneum		disease	Cancer
+212	Hemiplegic migraine, familial		disease	Neurological
+218	Thyrotoxic periodic paralysis		disease	Endocrine
+225	Non-Hodgkin lymphoma		disease	Cancer
+228	Hypocalcemia		disease	Endocrine
+229	Hypocalciuric hypercalcemia		disease	Endocrine
+231	Creatine phosphokinase		disease	Metabolic
+232	Rippling muscle disease		disease	Muscular
+249	Listeria monocytogenes		disease	Immunological
+252	Li Fraumeni syndrome		disease	Cancer
+253	Orolaryngeal cancer		disease	Cancer
+283	Caffey disease		disease	Connective tissue disorder
+284	Dissection of cervical arteries		disease	Connective tissue disorder
+288	Achondrogenesis-hypochondrogenesis, type II		disease	Bone
+289	Kniest dysplasia		disease	Skeletal
+291	SMED Strudwick type		disease	Skeletal
+293	Wagner syndrome		disease	Ophthamological
+294	Aneurysm, familial arterial		disease	Unclassified
+301	EBD		disease	Dermatological
+303	Toenail dystrophy, isolated		disease	Dermatological
+304	Transient bullous of the newborn		disease	Dermatological
+305	Fuchs endothelial corneal dystrophy		disease	Ophthamological
+310	Marshall syndrome		disease	Multiple
+311	OSMED syndrome		disease	Bone
+312	Weissenbacher-Zweymuller syndrome		disease	Connective tissue disorder
+313	Pseudoachondroplasia		disease	Skeletal
+316	Hemosiderosis, systemic, due to aceruloplasminemia		disease	Hematological
+317	Hypoceruloplasminemia		disease	Metabolic
+334	Pilomatricoma		disease	Cancer
+342	Coumarin resistance		disease	Hematological
+363	Dopamine beta-hydroxylase deciency		disease	Metabolic
+365	Angiotensin I-converting enzyme		disease	Endocrine
+366	SARS, progression of		disease	Immunological
+368	Lower motor neuron disease, progressive, without sensory symptoms		disease	Neurological
+374	Jensen syndrome		disease	Neurological
+375	Mohr-Tranebjaerg syndrome		disease	Neurological
+376	Meniere disease		disease	Neurological
+380	Benzene toxicity		disease	Unclassified
+386	Duchenne muscular dystrophy		disease	Muscular
+403	Dilated cardiomyopathy with woolly hair and keratoderma		disease	Multiple
+404	Skin fragility-woolly hair syndrome		disease	Dermatological
+405	Dentin dysplasia, type II		disease	Bone
+406	Dentinogenesis imperfecta, Shields type		disease	Bone
+407	Achondrogenesis Ib		disease	Bone
+409	Diastrophic dysplasia		disease	Skeletal
+415	Shah-Waardenburg syndrome		disease	Multiple
+416	ABCD syndrome		disease	Multiple
+422	Hematopoiesis, cyclic		disease	Hematological
+424	Supravalvar aortic stenosis		disease	Cardiovascular
+425	Williams-Beuren syndrome		disease	Multiple
+434	Estrogen resistance		disease	Endocrine
+442	Branchiootic syndrome		disease	Neurological
+453	Aortic aneurysm		disease	Cardiovascular
+455	MASS syndrome		disease	Connective tissue disorder
+456	Shprintzen-Goldberg syndrome		disease	Multiple
+468	Aarskog-Scott syndrome		disease	Multiple
+473	Achondroplasia		disease	Skeletal
+475	Cervical carcinoma		disease	Cancer
+477	Hypochondroplasia		disease	Skeletal
+478	Muenke syndrome		disease	Skeletal
+479	Thanatophoric dysplasia, types I and II		disease	Skeletal
+480	Apert syndrome		disease	Connective tissue disorder
+481	Beare-Stevenson cutis gyrata syndrome		disease	Multiple
+482	Craniofacial-skeletal-dermatologic dysplasia		disease	Multiple
+486	Hypofibrinogenemia		disease	Hematological
+490	Axenfeld anomaly		disease	Ophthamological
+492	Iris hypoplasia and glaucoma		disease	Ophthamological
+502	Larson syndrome		disease	Skeletal
+503	Spondylocarpotarsal synostosis syndrome		disease	Skeletal
+523	Favism		disease	Metabolic
+524	G6PD deficiency		disease	Metabolic
+535	Dyserythropoietic anemia		disease	Hematological
+536	Macrothrombocytopenia		disease	Hematological
+540	Hyperinsulinism		disease	Metabolic
+542	Adult i phenotype		disease	Hematological
+552	Hypoplastic left heart syndrome		disease	Cardiovascular
+553	Oculodentodigital dysplasia		disease	Skeletal
+554	Syndactyly		disease	Skeletal
+555	Bart-Pumphrey syndrome		disease	Multiple
+556	Hystrix-like ichthyosis with deafness		disease	Multiple
+557	Keratitis-ichthyosis-deafness syndrome		disease	Multiple
+558	Keratoderma, palmoplantar, with deafness		disease	Dermatological
+563	Simpson-Golabi-Behmel syndrome		disease	Multiple
+576	McCune-Albright syndrome		disease	Multiple
+577	Osseous heteroplasia		disease	Bone
+578	Pseudohypoparathyroidism		disease	Endocrine
+579	Somatotrophinoma		disease	Endocrine
+585	Glutathione synthetase deciency		disease	Metabolic
+605	Sandho disease, infantile, juvenile, and adult forms		disease	Metabolic
+606	Hemolytic-uremic syndrome		disease	Hematological
+608	Nephropathy-hypertension		disease	Renal
+627	Vertical talus		disease	Skeletal
+633	Costello syndrome		disease	Multiple
+637	Apparent mineralocorticoid excess, hypertension due to		disease	Bone
+643	Alcohol dependence		disease	Unclassified
+644	Anorexia nervosa		disease	Nutritional
+645	Seasonal affective disorder		disease	Psychiatric
+663	Graft-versus-host disease		disease	Immunological
+664	Allergic rhinitis		disease	Immunological
+665	Hyperproinsulinemia		disease	Endocrine
+667	Leprechaunism		disease	Developmental
+668	Rabson-Mendenhall syndrome		disease	Multiple
+669	Pancreatic agenesis		disease	Gastrointestinal
+670	Macrocytic anemia		disease	Hematological
+680	Myelofibrosis, idiopathic		disease	Hematological
+686	Acquired long QT syndrome		disease	Cardiovascular
+687	Persistent hyperinsulinemic hypoglycemia of infancy		disease	Metabolic
+689	Myokymia with neonatal epilepsy		disease	Neurological
+693	Mast cell leukemia		disease	Cancer
+694	Mastocytosis with associated hematologic disorder		disease	Immunological
+695	Piebaldism		disease	Dermatological
+701	Stomach cancer		disease	Cancer
+702	Cyclic ichthyosis with epidermolytic hyperkeratosis		disease	Dermatological
+704	Unna-Thost disease, nonepidermolytic		disease	Dermatological
+709	Nevus, epidermal, epidermolytic hyperkeratotic type		disease	Dermatological
+716	Laryngoonychocutaneous syndrome		disease	Multiple
+743	Bone mineral density variability		disease	Bone
+745	Hyperostosis, endosteal		disease	Bone
+746	Osteoporosis-pseudoglioma syndrome		disease	Bone
+747	van Buchem disease		disease	Unclassified
+748	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome		disease	Cancer
+752	Pallidopontonigral degeneration		disease	Neurological
+753	Supranuclear palsy		disease	Neurological
+754	Tauopathy and respiratory failure		disease	Neurological
+766	PPM-X syndrome		disease	Neurological
+769	Adrenal adenoma		disease	Cancer
+770	Angiofibroma, sporadic		disease	Endocrine
+771	Carcinoid tumor of lung		disease	Cancer
+774	Prolactinoma, hyperparathyroidism, carcinoid syndrome		disease	Endocrine
+781	Tietz syndrome		disease	Multiple
+792	Myeloperoxidase deficiency		disease	Immunological
+794	Lynch cancer family syndrome II		disease	Cancer
+798	Witkop syndrome		disease	Developmental
+810	Neurofibrosarcoma		disease	Cancer
+816	Trismus-pseudocomptodactyly syndrome		disease	Multiple
+817	Epstein syndrome		disease	Hematological
+818	Fechtner syndrome		disease	Multiple
+819	May-Hegglin anomaly		disease	Hematological
+820	Sebastian syndrome		disease	Hematological
+826	Nijmegen breakage syndrome		disease	Multiple
+828	Coats disease		disease	Ophthamological
+829	Norrie disease		disease	Neurological
+833	Neurofibromatosis		disease	Cancer
+834	Neurobromatosis-Noonan syndrome		disease	Cancer
+835	Watson syndrome		disease	Cancer
+836	Schwannomatosis		disease	Cancer
+841	Coronary spasms		disease	Cardiovascular
+842	Placental abruption		disease	Unclassified
+852	Insensitivity to pain		disease	Neurological
+868	Leprosy		disease	Immunological
+871	Craniofacial-deafness-hand syndrome		disease	Multiple
+872	Aniridia, type II		disease	Ophthamological
+874	Eye anomalies		disease	Ophthamological
+875	Foveal hypoplasia		disease	Ophthamological
+876	Keratitis		disease	Ophthamological
+877	Morning glory disc anomaly		disease	Skeletal
+878	Optic nerve hypoplasia/aplasia		disease	Ophthamological
+879	Oligodontia		disease	Skeletal
+882	Dermatobrosarcoma protuberans		disease	Cancer
+883	Giant-cell fibroblastoma		disease	Cancer
+884	Hypereosinophilic syndrome		disease	Hematological
+887	Ossication of the posterior longitudinal spinal ligaments		disease	Connective tissue disorder
+888	Enlarged vestibular aqueduct		disease	Ear,Nose,Throat
+889	Pendred syndrome		disease	Ear,Nose,Throat
+897	Myoglobinuria/hemolysis due to PGK deciency		disease	Metabolic
+902	Emphysema		disease	Respiratory
+904	Ring dermoid of cornea		disease	Ophthamological
+909	Nevo syndrome		disease	Connective tissue disorder
+911	Pelizaeus-Merzbacher disease		disease	Neurological
+912	Neuroectodermal tumors		disease	Multiple
+923	Adrenocortical carcinoma		disease	Cancer
+924	Myxoma, intracardiac		disease	Cardiovascular
+925	Pigmented adrenocortical disease, primary isolated		disease	Cancer
+928	Gerstmann-Straussler disease		disease	Neurological
+929	Prion disease with protracted course		disease	Neurological
+935	Pick disease		disease	Neurological
+939	Basal cell nevus syndrome		disease	Multiple
+941	Bannayan-Riley-Ruvalcaba syndrome		disease	Unclassified
+942	Lhermitte-Duclos syndrome		disease	Cancer
+943	Oligodendroglioma		disease	Cancer
+944	VATER association with hydrocephalus		disease	Multiple
+947	Leopard syndrome		disease	Multiple
+948	Noonan syndrome		disease	Developmental
+949	Zlotogora-Ogur syndrome		disease	Multiple
+954	Capillary malformations		disease	Cardiovascular
+955	Parkes Weber syndrome		disease	Multiple
+956	Retinoblastoma		disease	Cancer
+958	Butterfly dystrophy, retinal		disease	Ophthamological
+959	Foveomacular dystrophy, adult-onset, with choroidal neovascularization		disease	Ophthamological
+960	Hyperproreninemia		disease	Cardiovascular
+961	Colonic aganglionosis, total, with small bowel involvement		disease	Gastrointestinal
+962	Rh-mod syndrome		disease	Hematological
+965	Bothnia retinal dystrophy		disease	Ophthamological
+966	Newfoundland rod-cone dystrophy		disease	Ophthamological
+969	Coffin-Lowry syndrome		disease	Multiple
+974	Cramps, potassium-aggravated		disease	Muscular
+975	Hyperkalemic periodic paralysis		disease	Neurological
+976	Paramyotonia congenita		disease	Muscular
+977	Brugada syndrome		disease	Cardiovascular
+978	Heart block		disease	Cardiovascular
+979	Sick sinus syndrome		disease	Cardiovascular
+980	Ventricular brillation, idiopathic		disease	Cardiovascular
+986	Carcinoid tumors, intestinal		disease	Cancer
+987	Merkel cell carcinoma		disease	Cancer
+991	Solitary median maxillary central incisor		disease	Skeletal
+996	Fanconi-Bickel syndrome		disease	Metabolic
+1002	Anxiety-related personality traits		disease	Psychiatric
+1003	Creatine deciency syndrome, X-linked		disease	Neurological
+1012	Infundibular hypoplasia and hypopituitarism		disease	Endocrine
+1015	PCWH		disease	Neurological
+1016	Yemenite deaf-blind hypopigmentation syndrome		disease	Multiple
+1020	Pyropoikilocytosis		disease	Hematological
+1025	Peutz-Jeghers syndrome		disease	Cancer
+1027	Hypoglycemia		disease	Metabolic
+1029	Wegener granulomatosis		disease	Immunological
+1033	Barth syndrome		disease	Multiple
+1034	Noncompaction of left ventricular myocardium		disease	Cardiovascular
+1040	Glomerulocystic kidney disease, hypoplastic		disease	Renal
+1047	Autoimmune thyroid disease		disease	Endocrine
+1051	Self-healing collodion baby		disease	Dermatological
+1065	Adrenal cortical carcinoma		disease	Cancer
+1066	Histiocytoma		disease	Cancer
+1068	Multiple malignancy syndrome		disease	Cancer
+1069	Nasopharyngeal carcinoma		disease	Cancer
+1072	Hyperthyroidism		disease	Endocrine
+1073	Total iodide organication defect		disease	Endocrine
+1078	Hyperthroidism		disease	Endocrine
+1080	Amyloid neuropathy		disease	Neurological
+1081	Carpal tunnel syndrome, familial		disease	Unclassified
+1082	Dystransthyretinemic hyperthyroxinemia		disease	Hematological
+1089	Hemangioblastoma, cerebellar		disease	Cancer
+1091	Maculopathy, bull's-eye		disease	Ophthamological
+1092	Vitelliform macular dystrophy		disease	Ophthamological
+1094	Wiskott-Aldrich syndrome		disease	Immunological
+1099	Denys-Drash syndrome		disease	Renal
+1100	Frasier syndrome		disease	Multiple
+1101	Mesangial sclerosis		disease	Renal
+1102	WAGR syndrome		disease	Multiple
+1120	Salivary adenoma		disease	Cancer
+1121	Uterine leiomyoma		disease	Cancer
+1130	Miyoshi myopathy		disease	Muscular
+1132	Oligodontia-colorectal cancer syndrome		disease	Cancer
+1136	Incontinentia pigmenti		disease	Dermatological
+1148	Arthropathy		disease	Bone
+1152	Mesothelioma		disease	Cancer
+1153	Sezary syndrome		disease	Cancer
+1174	Myotilinopathy		disease	Muscular
+1181	Enhanced S-cone syndrome		disease	Ophthamological
+1198	Netherton syndrome		disease	Dermatological
+1208	Pigmented paravenous chorioretinal atrophy		disease	Ophthamological
+1221	Silver spastic paraplegia syndrome		disease	Neurological
+1227	Craniofacial anomalies, empty sella turcica, corneal endothelial changes		disease	Multiple
+1228	Keratoconus		disease	Ophthamological
+1232	Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked		disease	Multiple
+1238	IgE levels QTL		disease	Immunological
+1242	Wolff-Parkinson-White syndrome		disease	Cardiovascular
+1270	Primary lateral sclerosis		disease	Neurological
+1285	3-methylglutaconicaciduria		disease	Metabolic
+1289	Convulsions		disease	Neurological
+1303	Infantile spasm syndrome		disease	Neurological
+1304	Partington syndrome		disease	Neurological
+1305	Proud syndrome		disease	Multiple
+1306	Birt-Hogg-Dube syndrome		disease	Dermatological
+1307	Pneumothorax, primary spontaneous		disease	Respiratory
+1329	MTP		gene	gene
+1338	CNGA3		gene	gene
+1339	GNAT2		gene	gene
+1348	SSTR5		gene	gene
+1361	PLAG1		gene	gene
+1394	OCA2		gene	gene
+1396	TYRP1		gene	gene
+1402	GFAP		gene	gene
+1420	A2M		gene	gene
+1421	APBB2		gene	gene
+1424	BLMH		gene	gene
+1428	PLAU		gene	gene
+1430	PSEN2		gene	gene
+1431	PAXIP1		gene	gene
+1442	GSN		gene	gene
+1443	LYZ		gene	gene
+1446	NEFH		gene	gene
+1447	PRPH		gene	gene
+1448	SOD1		gene	gene
+1455	ABCB7		gene	gene
+1456	ALAS2		gene	gene
+1457	SLC11A2		gene	gene
+1458	PKLR		gene	gene
+1460	RPS19		gene	gene
+1462	NT5C3		gene	gene
+1463	CDAN1		gene	gene
+1465	UBE3A		gene	gene
+1477	FOXE3		gene	gene
+1491	APOC3		gene	gene
+1492	APOH		gene	gene
+1501	PKP2		gene	gene
+1512	MS4A2		gene	gene
+1513	HNMT		gene	gene
+1514	IL12B		gene	gene
+1515	IL13		gene	gene
+1516	PTGDR		gene	gene
+1518	SCGB1A1		gene	gene
+1521	SCGB3A2		gene	gene
+1522	GPR154		gene	gene
+1524	TTPA		gene	gene
+1525	ALS4		gene	gene
+1526	APTX		gene	gene
+1527	ATCAY		gene	gene
+1529	MRE11A		gene	gene
+1533	ALOX5		gene	gene
+1534	IL4R		gene	gene
+1535	SELP		gene	gene
+1538	HAVCR1		gene	gene
+1541	GATA4		gene	gene
+1548	CRELD1		gene	gene
+1550	GLO1		gene	gene
+1552	NLGN3		gene	gene
+1554	AIRE		gene	gene
+1573	RFX5		gene	gene
+1574	RFXAP		gene	gene
+1576	TAPBP		gene	gene
+1586	SMO		gene	gene
+1621	ABO		gene	gene
+1622	ACHE		gene	gene
+1623	AQP1		gene	gene
+1624	AQP3		gene	gene
+1625	DO		gene	gene
+1626	BSG		gene	gene
+1627	CD44		gene	gene
+1628	CR1		gene	gene
+1629	DAF		gene	gene
+1630	FUT3		gene	gene
+1631	GCNT2		gene	gene
+1632	GYPA		gene	gene
+1633	GYPB		gene	gene
+1635	ICAM4		gene	gene
+1636	KEL		gene	gene
+1637	LU		gene	gene
+1640	SLC14A1		gene	gene
+1641	XG		gene	gene
+1642	B3GALT3		gene	gene
+1643	A4GALT		gene	gene
+1660	EYA1		gene	gene
+1663	BARD1		gene	gene
+1669	PHB		gene	gene
+1671	RAD51		gene	gene
+1673	TSG101		gene	gene
+1676	PPM1D		gene	gene
+1677	RB1CC1		gene	gene
+1687	C1QA		gene	gene
+1688	C1QB		gene	gene
+1689	C1QG		gene	gene
+1690	C1S		gene	gene
+1691	C2		gene	gene
+1692	C3		gene	gene
+1693	C4A		gene	gene
+1694	C4B		gene	gene
+1696	C7		gene	gene
+1697	C8B		gene	gene
+1698	C9		gene	gene
+1699	IF		gene	gene
+1709	FGFR4		gene	gene
+1719	ACTC		gene	gene
+1726	MYBPC3		gene	gene
+1727	MYH6		gene	gene
+1729	MYL2		gene	gene
+1730	MYL3		gene	gene
+1731	PLN		gene	gene
+1734	TNNC1		gene	gene
+1735	TNNI3		gene	gene
+1736	TNNT2		gene	gene
+1737	TPM1		gene	gene
+1739	CSRP3		gene	gene
+1741	ABCC9		gene	gene
+1743	MYLK2		gene	gene
+1750	CRYAA		gene	gene
+1752	CRYBA1		gene	gene
+1753	CRYBB1		gene	gene
+1754	CRYBB2		gene	gene
+1755	CRYGC		gene	gene
+1756	CRYGD		gene	gene
+1757	GJA3		gene	gene
+1758	GJA8		gene	gene
+1759	HSF4		gene	gene
+1760	LIM2		gene	gene
+1761	MIP		gene	gene
+1763	PITX3		gene	gene
+1764	BFSP2		gene	gene
+1776	CST3		gene	gene
+1792	DNM2		gene	gene
+1795	GJB1		gene	gene
+1799	NEFL		gene	gene
+1801	RAB7		gene	gene
+1802	MTMR2		gene	gene
+1803	LITAF		gene	gene
+1804	MFN2		gene	gene
+1805	NDRG1		gene	gene
+1806	KIF1B		gene	gene
+1807	GDAP1		gene	gene
+1808	SH3TC2		gene	gene
+1809	SBF2		gene	gene
+1852	TBX22		gene	gene
+1868	BUB1		gene	gene
+1869	BUB1B		gene	gene
+1871	DCC		gene	gene
+1875	MCC		gene	gene
+1879	NRAS		gene	gene
+1880	ODC1		gene	gene
+1883	PLA2G2A		gene	gene
+1884	PMS1		gene	gene
+1886	PTPN12		gene	gene
+1887	PTPRJ		gene	gene
+1888	SRC		gene	gene
+1894	DLC1		gene	gene
+1896	MLH3		gene	gene
+1907	GUCA1A		gene	gene
+1935	TACSTD2		gene	gene
+1936	TGFBI		gene	gene
+1937	KERA		gene	gene
+1939	PIP5K3		gene	gene
+1942	MEF2A		gene	gene
+1943	MMP3		gene	gene
+1944	PON1		gene	gene
+1945	PON2		gene	gene
+1946	KL		gene	gene
+1955	CPT1A		gene	gene
+1967	HLA-DQB1		gene	gene
+1990	ACTG1		gene	gene
+1992	ATP2B2		gene	gene
+1994	CRYM		gene	gene
+1996	DFNA5		gene	gene
+1998	DIAPH1		gene	gene
+2000	EYA4		gene	gene
+2004	MYO1A		gene	gene
+2005	MYO6		gene	gene
+2008	POU3F4		gene	gene
+2009	POU4F3		gene	gene
+2010	TECTA		gene	gene
+2011	KCNQ4		gene	gene
+2012	OTOF		gene	gene
+2015	CLDN14		gene	gene
+2016	DFNB31		gene	gene
+2017	MYO15A		gene	gene
+2018	MYO3A		gene	gene
+2019	KIAA1199		gene	gene
+2021	TMPRSS3		gene	gene
+2023	MYH14		gene	gene
+2024	GRHL2		gene	gene
+2025	ESPN		gene	gene
+2026	TMC1		gene	gene
+2027	OTOA		gene	gene
+2028	STRC		gene	gene
+2029	TMIE		gene	gene
+2030	SLC26A5		gene	gene
+2035	PRX		gene	gene
+2039	SNCB		gene	gene
+2042	ITM2B		gene	gene
+2049	DSPP		gene	gene
+2055	AKT2		gene	gene
+2057	GCGR		gene	gene
+2059	GPD2		gene	gene
+2063	IRS1		gene	gene
+2065	NEUROD1		gene	gene
+2069	SLC2A4		gene	gene
+2073	VEGF		gene	gene
+2074	IRS2		gene	gene
+2075	MAPK8IP1		gene	gene
+2076	CAPN10		gene	gene
+2080	PTF1A		gene	gene
+2081	SUMO4		gene	gene
+2099	DMD		gene	gene
+2105	FGA		gene	gene
+2120	TTR		gene	gene
+2122	EDA		gene	gene
+2123	NFKBIA		gene	gene
+2124	PKP1		gene	gene
+2127	GJB6		gene	gene
+2128	EDAR		gene	gene
+2129	EDARADD		gene	gene
+2136	COL5A1		gene	gene
+2137	COL5A2		gene	gene
+2139	TNXB		gene	gene
+2140	ADAMTS2		gene	gene
+2141	B4GALT7		gene	gene
+2143	EPB41		gene	gene
+2149	EMD		gene	gene
+2157	MSH3		gene	gene
+2169	COL17A1		gene	gene
+2171	ITGA6		gene	gene
+2172	ITGB4		gene	gene
+2173	KRT5		gene	gene
+2174	KRT14		gene	gene
+2176	LAMB3		gene	gene
+2177	LAMC2		gene	gene
+2180	KRT9		gene	gene
+2182	CACNB4		gene	gene
+2184	CHRNB2		gene	gene
+2185	CLCN2		gene	gene
+2186	CSTB		gene	gene
+2187	GABRA1		gene	gene
+2190	KCNQ3		gene	gene
+2191	ME2		gene	gene
+2192	SCN1A		gene	gene
+2193	SYN1		gene	gene
+2194	EPM2A		gene	gene
+2195	JRK		gene	gene
+2197	SLC25A22		gene	gene
+2198	NHLRC1		gene	gene
+2199	COL9A1		gene	gene
+2203	SLC26A2		gene	gene
+2206	KCNA1		gene	gene
+2214	GJB3		gene	gene
+2216	GJB4		gene	gene
+2217	RNF6		gene	gene
+2219	LZTS1		gene	gene
+2220	WWOX		gene	gene
+2229	FZD4		gene	gene
+2235	F10		gene	gene
+2236	F11		gene	gene
+2237	F12		gene	gene
+2238	F13A1		gene	gene
+2239	F13B		gene	gene
+2241	MCFD2		gene	gene
+2244	FANCA		gene	gene
+2245	FANCC		gene	gene
+2246	FANCD2		gene	gene
+2247	FANCE		gene	gene
+2248	FANCB		gene	gene
+2249	FANCF		gene	gene
+2250	FANCG		gene	gene
+2251	FANCL		gene	gene
+2252	FANCM		gene	gene
+2253	BRIP1		gene	gene
+2254	SLC2A2		gene	gene
+2285	COL8A2		gene	gene
+2290	RDH5		gene	gene
+2306	IL1B		gene	gene
+2307	IL1RN		gene	gene
+2309	MUTYH		gene	gene
+2328	MYOC		gene	gene
+2330	OPTN		gene	gene
+2331	DMBT1		gene	gene
+2335	LGI1		gene	gene
+2380	GC		gene	gene
+2386	GHRHR		gene	gene
+2418	AK1		gene	gene
+2419	BPGM		gene	gene
+2420	G6PD		gene	gene
+2421	GCLC		gene	gene
+2422	GPI		gene	gene
+2423	GSS		gene	gene
+2424	HK1		gene	gene
+2427	TPI1		gene	gene
+2434	SERPINA1		gene	gene
+2437	CASP8		gene	gene
+2439	IGF2R		gene	gene
+2441	PDGFRL		gene	gene
+2444	AXIN1		gene	gene
+2462	GDNF		gene	gene
+2463	NRTN		gene	gene
+2468	CCR2		gene	gene
+2469	CCR5		gene	gene
+2471	CCL5		gene	gene
+2477	SIX3		gene	gene
+2478	TGIF		gene	gene
+2479	ZIC2		gene	gene
+2483	MTHFR		gene	gene
+2492	HD		gene	gene
+2495	JPH3		gene	gene
+2504	BAAT		gene	gene
+2506	TJP2		gene	gene
+2507	APOA2		gene	gene
+2509	EPHX2		gene	gene
+2510	ITIH4		gene	gene
+2511	LDLR		gene	gene
+2512	C7orf16		gene	gene
+2513	LDLRAP1		gene	gene
+2514	PCSK9		gene	gene
+2517	PDGFRA		gene	gene
+2525	APOC2		gene	gene
+2541	ALDH4A1		gene	gene
+2544	ADD1		gene	gene
+2547	CYP3A5		gene	gene
+2548	ECE1		gene	gene
+2549	GNB3		gene	gene
+2550	HSD11B2		gene	gene
+2551	KCNMB1		gene	gene
+2554	PTGIS		gene	gene
+2555	RETN		gene	gene
+2560	APOA5		gene	gene
+2561	LIPI		gene	gene
+2565	APOA1		gene	gene
+2566	APOB		gene	gene
+2568	CASR		gene	gene
+2569	CP		gene	gene
+2576	ABCC8		gene	gene
+2585	KCNE3		gene	gene
+2601	CTLA4		gene	gene
+2602	SLC5A5		gene	gene
+2604	TSHB		gene	gene
+2606	PAX8		gene	gene
+2607	DUOX2		gene	gene
+2614	ALOX12B		gene	gene
+2616	ALOXE3		gene	gene
+2619	KRT2A		gene	gene
+2622	ABCA12		gene	gene
+2623	ICHTHYIN		gene	gene
+2625	PHF11		gene	gene
+2635	FOXP3		gene	gene
+2640	IKBKG		gene	gene
+2645	GABRB3		gene	gene
+2648	PPP1R3A		gene	gene
+2649	PTPN1		gene	gene
+2651	COL9A2		gene	gene
+2652	COL9A3		gene	gene
+2675	KAL1		gene	gene
+2685	VSX1		gene	gene
+2687	DSG1		gene	gene
+2690	SAT		gene	gene
+2705	LAMA3		gene	gene
+2711	GUCY2D		gene	gene
+2715	RPGRIP1		gene	gene
+2716	RDH12		gene	gene
+2722	COX15		gene	gene
+2724	NDUFS3		gene	gene
+2727	NDUFS8		gene	gene
+2730	SURF1		gene	gene
+2731	LRPPRC		gene	gene
+2732	NDUFS7		gene	gene
+2740	ABL1		gene	gene
+2741	ARNT		gene	gene
+2743	BCL2		gene	gene
+2744	BCR		gene	gene
+2746	CEBPA		gene	gene
+2747	NQO1		gene	gene
+2748	FLT3		gene	gene
+2750	HOXD4		gene	gene
+2756	NPM1		gene	gene
+2757	NUMA1		gene	gene
+2758	P2RX7		gene	gene
+2759	PML		gene	gene
+2761	STAT5B		gene	gene
+2762	TAL1		gene	gene
+2763	TAL2		gene	gene
+2764	TRA@		gene	gene
+2765	ZBTB16		gene	gene
+2766	NUP214		gene	gene
+2767	MLLT10		gene	gene
+2768	PICALM		gene	gene
+2769	GMPS		gene	gene
+2770	ZNFN1A1		gene	gene
+2771	MLLT11		gene	gene
+2772	ARHGAP26		gene	gene
+2773	ARHGEF12		gene	gene
+2774	CHIC2		gene	gene
+2775	WHSC1L1		gene	gene
+2776	ARL11		gene	gene
+2792	LMNA		gene	gene
+2794	AGPAT2		gene	gene
+2795	PPARGC1A		gene	gene
+2799	LPP		gene	gene
+2805	RELN		gene	gene
+2808	TGFBR1		gene	gene
+2809	TGFBR2		gene	gene
+2812	ANK2		gene	gene
+2813	KCNE1		gene	gene
+2814	KCNH2		gene	gene
+2815	KCNJ2		gene	gene
+2816	KCNQ1		gene	gene
+2818	KCNE2		gene	gene
+2819	DCTN1		gene	gene
+2824	MAP3K8		gene	gene
+2827	PPP2R1B		gene	gene
+2834	BCL8		gene	gene
+2835	FCGR2B		gene	gene
+2836	SH2D1A		gene	gene
+2838	RAP1GDS1		gene	gene
+2840	RAD54L		gene	gene
+2842	RAD54B		gene	gene
+2847	GATA1		gene	gene
+2850	FBLN5		gene	gene
+2851	CNGB3		gene	gene
+2852	HMCN1		gene	gene
+2856	GYPC		gene	gene
+2857	ICAM1		gene	gene
+2858	NOS2A		gene	gene
+2867	BCKDHA		gene	gene
+2868	BCKDHB		gene	gene
+2869	DBT		gene	gene
+2870	GCSL		gene	gene
+2887	PTCH2		gene	gene
+2888	SUFU		gene	gene
+2896	CDK4		gene	gene
+2899	XRCC3		gene	gene
+2904	COCH		gene	gene
+2905	MN1		gene	gene
+2907	PDGFB		gene	gene
+2911	AGTR2		gene	gene
+2912	DLG3		gene	gene
+2913	ACSL4		gene	gene
+2914	FGD1		gene	gene
+2915	AFF2		gene	gene
+2916	GDI1		gene	gene
+2918	OPHN1		gene	gene
+2919	PAK3		gene	gene
+2920	RPS6KA3		gene	gene
+2922	SMS		gene	gene
+2923	SOX3		gene	gene
+2924	TSPAN7		gene	gene
+2925	ZNF41		gene	gene
+2926	SMCX		gene	gene
+2927	PRSS12		gene	gene
+2928	ARHGEF6		gene	gene
+2929	IL1RAPL1		gene	gene
+2930	FTSJ1		gene	gene
+2931	CRBN		gene	gene
+2932	NLGN4X		gene	gene
+2934	ZNF81		gene	gene
+2966	ATP1A2		gene	gene
+2967	EDNRA		gene	gene
+2968	ESR1		gene	gene
+2971	BCS1L		gene	gene
+2972	NDUFS1		gene	gene
+2973	NDUFS2		gene	gene
+2974	NDUFV1		gene	gene
+2975	NDUFS4		gene	gene
+2976	SDHA		gene	gene
+2977	UQCRB		gene	gene
+2979	GCK		gene	gene
+2980	HNF4A		gene	gene
+2981	INS		gene	gene
+2983	TCF1		gene	gene
+2984	TCF2		gene	gene
+2985	TIMM8A		gene	gene
+3016	CAPN3		gene	gene
+3019	LAMA2		gene	gene
+3020	PLEC1		gene	gene
+3021	SGCA		gene	gene
+3022	SGCB		gene	gene
+3023	SGCD		gene	gene
+3024	SGCG		gene	gene
+3025	TTN		gene	gene
+3027	TCAP		gene	gene
+3028	LARGE		gene	gene
+3031	TRIM32		gene	gene
+3032	SEPN1		gene	gene
+3033	FKRP		gene	gene
+3035	CHAT		gene	gene
+3036	CHRNA1		gene	gene
+3037	CHRNB1		gene	gene
+3038	CHRND		gene	gene
+3039	CHRNE		gene	gene
+3040	RAPSN		gene	gene
+3048	MDS1		gene	gene
+3051	CBFB		gene	gene
+3052	CSF1R		gene	gene
+3054	ACSL6		gene	gene
+3057	MPO		gene	gene
+3063	F7		gene	gene
+3064	GCLM		gene	gene
+3065	LGALS2		gene	gene
+3066	LTA		gene	gene
+3067	OLR1		gene	gene
+3069	TNFSF4		gene	gene
+3070	GABRG2		gene	gene
+3071	EFHC1		gene	gene
+3073	PGK1		gene	gene
+3074	KCNQ2		gene	gene
+3076	ACTA1		gene	gene
+3078	CPT2		gene	gene
+3079	CRYAB		gene	gene
+3080	DES		gene	gene
+3081	ITGA7		gene	gene
+3082	MYF6		gene	gene
+3084	PGAM2		gene	gene
+3085	DYSF		gene	gene
+3086	MYOT		gene	gene
+3087	CLCN1		gene	gene
+3113	CFH		gene	gene
+3117	SPINK5		gene	gene
+3119	NME1		gene	gene
+3120	PHOX2B		gene	gene
+3129	EGR2		gene	gene
+3130	HSPB1		gene	gene
+3132	NGFB		gene	gene
+3134	SPTLC1		gene	gene
+3135	HSPB8		gene	gene
+3136	HSN2		gene	gene
+3137	ELA2		gene	gene
+3139	GFI1		gene	gene
+3142	PLOD1		gene	gene
+3143	KRT10		gene	gene
+3145	CHRNA4		gene	gene
+3146	CYP2A6		gene	gene
+3147	GPR51		gene	gene
+3151	CACNA1F		gene	gene
+3152	GNAT1		gene	gene
+3155	NYX		gene	gene
+3156	NBN		gene	gene
+3158	TAZ		gene	gene
+3159	CASP10		gene	gene
+3160	BRAF		gene	gene
+3161	EGFR		gene	gene
+3162	IRF1		gene	gene
+3163	PTPN11		gene	gene
+3164	NDP		gene	gene
+3168	ADRB2		gene	gene
+3169	ADRB3		gene	gene
+3170	AGRP		gene	gene
+3171	AKR1C2		gene	gene
+3172	LEP		gene	gene
+3173	LEPR		gene	gene
+3174	MC3R		gene	gene
+3175	MC4R		gene	gene
+3176	NTRK2		gene	gene
+3177	PCSK1		gene	gene
+3179	POMC		gene	gene
+3180	PPARG		gene	gene
+3181	SIM1		gene	gene
+3182	UCP1		gene	gene
+3183	UCP2		gene	gene
+3184	UCP3		gene	gene
+3185	NR0B2		gene	gene
+3186	CART		gene	gene
+3187	SLC6A14		gene	gene
+3188	GHRL		gene	gene
+3189	BDNF		gene	gene
+3191	SLC6A4		gene	gene
+3192	ATP7A		gene	gene
+3203	PAX9		gene	gene
+3204	AXIN2		gene	gene
+3210	OPA1		gene	gene
+3211	OPA3		gene	gene
+3220	ENPP1		gene	gene
+3222	FRZB		gene	gene
+3224	ASPN		gene	gene
+3229	CLCN7		gene	gene
+3231	TCIRG1		gene	gene
+3232	OSTM1		gene	gene
+3234	CALCA		gene	gene
+3235	CALCR		gene	gene
+3236	COL1A1		gene	gene
+3237	COL1A2		gene	gene
+3246	CDH1		gene	gene
+3248	ERBB2		gene	gene
+3249	MSH6		gene	gene
+3250	MSH2		gene	gene
+3251	PIK3CA		gene	gene
+3252	RRAS2		gene	gene
+3266	ACVR1B		gene	gene
+3268	CDKN2A		gene	gene
+3271	RBBP8		gene	gene
+3274	ARMET		gene	gene
+3278	BRCA1		gene	gene
+3281	SDHC		gene	gene
+3283	SCN4A		gene	gene
+3285	CDC73		gene	gene
+3286	MSX2		gene	gene
+3287	ALX4		gene	gene
+3288	RASA1		gene	gene
+3289	DBH		gene	gene
+3290	NDUFV2		gene	gene
+3291	NR4A2		gene	gene
+3292	PARK2		gene	gene
+3293	SNCA		gene	gene
+3295	UCHL1		gene	gene
+3296	SNCAIP		gene	gene
+3297	PARK7		gene	gene
+3298	PINK1		gene	gene
+3299	LRRK2		gene	gene
+3306	SLC26A4		gene	gene
+3315	CYP1B1		gene	gene
+3317	STK11		gene	gene
+3318	FGFR1		gene	gene
+3324	SDHB		gene	gene
+3325	SDHD		gene	gene
+3331	PSEN1		gene	gene
+3332	KIT		gene	gene
+3335	CTNNB1		gene	gene
+3338	THRA		gene	gene
+3343	CD36		gene	gene
+3344	PLA2G7		gene	gene
+3345	P2RY12		gene	gene
+3356	BMPR1A		gene	gene
+3357	SMAD4		gene	gene
+3371	EPHX1		gene	gene
+3372	STOX1		gene	gene
+3377	PRNP		gene	gene
+3388	ATBF1		gene	gene
+3390	KLF6		gene	gene
+3391	EPHB2		gene	gene
+3392	MSR1		gene	gene
+3393	MXI1		gene	gene
+3395	RNASEL		gene	gene
+3396	MAD1L1		gene	gene
+3397	CHEK2		gene	gene
+3398	ELAC2		gene	gene
+3402	ARX		gene	gene
+3403	COMP		gene	gene
+3406	NR3C2		gene	gene
+3407	SCNN1A		gene	gene
+3408	SCNN1B		gene	gene
+3409	SCNN1G		gene	gene
+3410	WNK1		gene	gene
+3411	WNK4		gene	gene
+3426	PC		gene	gene
+3427	PDHA1		gene	gene
+3428	PDHB		gene	gene
+3429	INSR		gene	gene
+3440	MET		gene	gene
+3441	OGG1		gene	gene
+3442	PRCC		gene	gene
+3443	TFE3		gene	gene
+3445	RNF139		gene	gene
+3446	FLCN		gene	gene
+3452	PROM1		gene	gene
+3453	LRAT		gene	gene
+3454	C1QTNF5		gene	gene
+3456	CA4		gene	gene
+3457	CNGB1		gene	gene
+3458	CNGA1		gene	gene
+3459	CRX		gene	gene
+3460	IMPDH1		gene	gene
+3461	NRL		gene	gene
+3462	PDE6A		gene	gene
+3463	PDE6B		gene	gene
+3465	RGR		gene	gene
+3466	RHO		gene	gene
+3467	RLBP1		gene	gene
+3468	ROM1		gene	gene
+3469	RP9		gene	gene
+3470	RP1		gene	gene
+3471	RP2		gene	gene
+3472	RPGR		gene	gene
+3473	RPE65		gene	gene
+3474	TULP1		gene	gene
+3476	PRPF3		gene	gene
+3477	NR2E3		gene	gene
+3478	MERTK		gene	gene
+3479	PRPF8		gene	gene
+3480	CRB1		gene	gene
+3481	AIPL1		gene	gene
+3482	FSCN2		gene	gene
+3483	PRPF31		gene	gene
+3484	CERKL		gene	gene
+3485	RB1		gene	gene
+3488	MECP2		gene	gene
+3489	CDKL5		gene	gene
+3491	FOXO1A		gene	gene
+3492	SLC22A18		gene	gene
+3494	PAX7		gene	gene
+3495	RUNX1		gene	gene
+3496	IL10		gene	gene
+3498	MIF		gene	gene
+3499	NFKBIL1		gene	gene
+3500	SLC22A4		gene	gene
+3501	PADI4		gene	gene
+3505	RHAG		gene	gene
+3506	RHCE		gene	gene
+3507	RHD		gene	gene
+3511	FOXC1		gene	gene
+3513	PITX2		gene	gene
+3514	CAV3		gene	gene
+3519	MPZ		gene	gene
+3520	PMP22		gene	gene
+3521	CREBBP		gene	gene
+3522	EP300		gene	gene
+3523	FGFR2		gene	gene
+3524	TWIST1		gene	gene
+3539	APP		gene	gene
+3540	COMT		gene	gene
+3542	PRODH		gene	gene
+3543	SYN2		gene	gene
+3544	ENTH		gene	gene
+3545	DISC1		gene	gene
+3546	RTN4R		gene	gene
+3547	TAAR6		gene	gene
+3548	NF2		gene	gene
+3553	APOE		gene	gene
+3554	HTR2A		gene	gene
+3555	MYH9		gene	gene
+3560	TGM1		gene	gene
+3567	TNF		gene	gene
+3568	CASP12P1		gene	gene
+3571	ADA		gene	gene
+3572	CD3D		gene	gene
+3574	IL7R		gene	gene
+3576	RAG1		gene	gene
+3577	RAG2		gene	gene
+3578	DCLRE1C		gene	gene
+3580	BCL10		gene	gene
+3581	EDN3		gene	gene
+3599	DSP		gene	gene
+3608	SHH		gene	gene
+3609	GNAS		gene	gene
+3612	HSPD1		gene	gene
+3613	KIF5A		gene	gene
+3614	PLP1		gene	gene
+3615	SPAST		gene	gene
+3616	SPG7		gene	gene
+3617	SACS		gene	gene
+3618	SPG3A		gene	gene
+3619	ALS2		gene	gene
+3620	NIPA1		gene	gene
+3623	ANK1		gene	gene
+3624	EPB42		gene	gene
+3626	SPTA1		gene	gene
+3627	SPTB		gene	gene
+3631	AR		gene	gene
+3632	GARS		gene	gene
+3633	HEXB		gene	gene
+3634	IGHMBP2		gene	gene
+3635	SMN1		gene	gene
+3636	VAPB		gene	gene
+3637	BSCL2		gene	gene
+3638	CACNA1A		gene	gene
+3639	FGF14		gene	gene
+3640	PPP2R2B		gene	gene
+3641	PRKCG		gene	gene
+3642	ATXN1		gene	gene
+3643	ATXN2		gene	gene
+3644	ATXN7		gene	gene
+3645	KLHL1AS		gene	gene
+3646	TBP		gene	gene
+3647	ATXN10		gene	gene
+3648	PLEKHG4		gene	gene
+3649	TDP1		gene	gene
+3650	SCA25		gene	gene
+3653	FLNB		gene	gene
+3656	AGC1		gene	gene
+3657	MATN3		gene	gene
+3658	TRAPPC2		gene	gene
+3659	WISP3		gene	gene
+3660	CHST3		gene	gene
+3662	FAS		gene	gene
+3663	ING1		gene	gene
+3664	TNFRSF10B		gene	gene
+3675	COL11A1		gene	gene
+3677	KRAS		gene	gene
+3678	ALOX5AP		gene	gene
+3679	PDE4D		gene	gene
+3681	DCX		gene	gene
+3682	PAFAH1B1		gene	gene
+3699	FASLG		gene	gene
+3700	DNASE1		gene	gene
+3701	PDCD1		gene	gene
+3702	PTPN22		gene	gene
+3704	ABCA1		gene	gene
+3706	MAPT		gene	gene
+3708	ATM		gene	gene
+3709	BAX		gene	gene
+3712	JAG1		gene	gene
+3713	NKX2-5		gene	gene
+3714	ZFPM2		gene	gene
+3720	FGFR3		gene	gene
+3722	JAK2		gene	gene
+3723	THPO		gene	gene
+3725	MPL		gene	gene
+3727	MASTL		gene	gene
+3728	CBS		gene	gene
+3729	F5		gene	gene
+3730	FGB		gene	gene
+3731	FGG		gene	gene
+3732	SERPIND1		gene	gene
+3733	HRG		gene	gene
+3734	PROC		gene	gene
+3735	THBD		gene	gene
+3736	ADAMTS13		gene	gene
+3738	HRAS		gene	gene
+3739	PCM1		gene	gene
+3743	TSHR		gene	gene
+3744	NCOA4		gene	gene
+3745	TRIM24		gene	gene
+3746	MINPP1		gene	gene
+3747	GOLGA5		gene	gene
+3748	TRIM33		gene	gene
+3749	CACNA1S		gene	gene
+3759	COL7A1		gene	gene
+3772	MYH8		gene	gene
+3780	APC		gene	gene
+3781	MLH1		gene	gene
+3782	PMS2		gene	gene
+3792	KRT1		gene	gene
+3793	APRT		gene	gene
+3794	SLC34A1		gene	gene
+3795	MYO7A		gene	gene
+3796	USH2A		gene	gene
+3797	USH3A		gene	gene
+3798	USH1C		gene	gene
+3799	CDH23		gene	gene
+3800	PCDH15		gene	gene
+3801	MASS1		gene	gene
+3802	USH1G		gene	gene
+3803	HMGA2		gene	gene
+3805	LRP5		gene	gene
+3806	PTEN		gene	gene
+3810	CASQ2		gene	gene
+3811	GNAI2		gene	gene
+3812	RYR2		gene	gene
+3813	HOXD10		gene	gene
+3814	FCGR3A		gene	gene
+3815	OAS1		gene	gene
+3821	GJB2		gene	gene
+3822	LOR		gene	gene
+3823	CCND1		gene	gene
+3824	VHL		gene	gene
+3825	EDNRB		gene	gene
+3827	MITF		gene	gene
+3828	PAX3		gene	gene
+3829	SNAI2		gene	gene
+3830	TYR		gene	gene
+3831	COL2A1		gene	gene
+3833	FCMD		gene	gene
+3834	POMT1		gene	gene
+3835	RAB3GAP1		gene	gene
+3839	NF1		gene	gene
+3841	TAP2		gene	gene
+3842	FBN1		gene	gene
+3843	ADAMTS10		gene	gene
+3844	COL11A2		gene	gene
+3851	ELN		gene	gene
+3852	BRCA2		gene	gene
+3853	GPC3		gene	gene
+3854	WT1		gene	gene
+3855	POU6F2		gene	gene
+3857	WAS		gene	gene
+3858	MSX1		gene	gene
+3860	PRKAG2		gene	gene
+3875	SOX10		gene	gene
+3887	PVRL1		gene	gene
+3892	COL3A1		gene	gene
+3893	TG		gene	gene
+3894	PTCH		gene	gene
+3895	MEN1		gene	gene
+3896	MYH7		gene	gene
+3897	RYR1		gene	gene
+3904	NOS3		gene	gene
+3905	SLC6A8		gene	gene
+3913	GJA1		gene	gene
+3915	ABCA4		gene	gene
+3916	CHST6		gene	gene
+3917	RDS		gene	gene
+3918	ELOVL4		gene	gene
+3919	VMD2		gene	gene
+3920	NTRK1		gene	gene
+3921	RET		gene	gene
+3928	IPF1		gene	gene
+3930	KCNJ11		gene	gene
+3931	PRKAR1A		gene	gene
+3939	THRB		gene	gene
+3941	TPO		gene	gene
+3943	SCN5A		gene	gene
+3951	C6		gene	gene
+3952	IL2RG		gene	gene
+3957	TP53		gene	gene
+3958	PAX6		gene	gene
+3964	STS		gene	gene
+3972	ATP6V1B1		gene	gene
+3973	CA2		gene	gene
+3974	SLC4A1		gene	gene
+3975	SLC4A4		gene	gene
+3976	ATP6V0A4		gene	gene
+3980	CIITA		gene	gene
+3981	PTPRC		gene	gene
+3983	AGT		gene	gene
+3984	AGTR1		gene	gene
+3985	ACE		gene	gene
+3986	REN		gene	gene

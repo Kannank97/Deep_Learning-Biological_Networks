@@ -1,0 +1,118 @@
+64 dimension
+
+random forest
+
+mean_squared_log_error
+1.00519973992
+hamming loss
+0.504576359833
+
+
+KNN
+
+mean_squared_log_error
+1.09074412241
+hamming loss
+0.545632845188
+
+
+DTC
+
+mean_squared_log_error
+1.15014684296
+hamming loss
+0.63519874477
+
+
+SupportVectorMachine
+
+average model score
+0.423770920502
+average macrof1 score
+0.0275458405102
+average microf1 score
+0.423770920502
+average weightedf1 score
+0.324894118143
+
+
+128 dimension
+
+random forest
+
+mean_squared_log_error
+0.981498785662
+hamming loss
+0.501569037657
+
+KNN
+
+mean_squared_log_error
+1.05348490336
+hamming loss
+0.5339958159
+
+
+DTC
+
+mean_squared_log_error
+1.20871946474
+hamming loss
+0.650235355649
+
+SupportVectorMachine
+
+average model score
+0.423770920502
+average macrof1 score
+0.0278251117782
+average microf1 score
+0.423770920502
+average weightedf1 score
+0.324937891157
+
+
+256 dimensions
+
+mean_squared_log_error
+0.995405521171
+hamming loss
+0.502484309623
+
+KNN
+
+mean_squared_log_error
+1.06710904716
+hamming loss
+0.531511506276
+
+dtc
+
+mean_squared_log_error
+1.21014845036
+hamming loss
+0.640559623431
+
+
+SupportVectorMachine
+
+average model score
+0.423770920502
+average macrof1 score
+0.0278251117782
+average microf1 score
+0.423770920502
+average weightedf1 score
+0.324937891157
+
+512 dimension
+
+average model score
+0.423640167364
+average macrof1 score
+0.0275370262608
+average microf1 score
+0.423640167364
+average weightedf1 score
+0.324630340228
+

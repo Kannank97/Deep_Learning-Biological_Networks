@@ -1,0 +1,147 @@
+sdne - protein
+
+-----------64 -------------
+rf
+mean_squared_log_error
+1.01237972663
+hamming loss
+0.564631122133
+
+knn
+mean_squared_log_error
+1.11623771475
+hamming loss
+0.606013639182
+
+dtc
+mean_squared_log_error
+1.17565532007
+hamming loss
+0.682269063856
+
+svm
+average model score
+0.4141351518908865
+average macrof1 score
+0.0325385179984908
+average microf1 score
+0.4141351518908865
+average weightedf1 score
+0.3633347555482521
+
+
+----------128-----------
+rf
+mean_squared_log_error
+1.00922515138
+hamming loss
+0.561376317421
+
+knn
+mean_squared_log_error
+1.08556409471
+hamming loss
+0.595784252945
+
+dtc
+mean_squared_log_error
+1.20489651726
+hamming loss
+0.680254184749
+
+svm
+average model score
+0.4293242405455672
+average macrof1 score
+0.027012117482555408
+average microf1 score
+0.4293242405455672
+average weightedf1 score
+0.3620694826983319
+
+------------------256-------
+rf
+mean_squared_log_error
+1.00008435076
+hamming loss
+0.556881587105
+
+knn
+mean_squared_log_error
+1.105949304
+hamming loss
+0.598574085555
+
+dtc
+mean_squared_log_error
+1.20829752741
+hamming loss
+0.662895226286
+
+svm
+average model score
+0.4483880967141971
+average macrof1 score
+0.026683579649490034
+average microf1 score
+0.4483880967141971
+average weightedf1 score
+0.367883960380961
+
+----------------------512-----------
+rf
+mean_squared_log_error
+0.985832261782
+hamming loss
+0.561376317421
+
+knn
+mean_squared_log_error
+1.09700884739
+hamming loss
+0.613608183509
+
+dtc
+mean_squared_log_error
+1.17904930239
+hamming loss
+0.682269063856
+
+svm
+average model score
+0.43753874767513945
+average macrof1 score
+0.02574794396752607
+average microf1 score
+0.4375387476751394
+average weightedf1 score
+0.35211149041395673
+
+--------------------------1024---------------
+rf
+mean_squared_log_error
+0.990416662011
+hamming loss
+0.560756354619
+
+knn
+mean_squared_log_error
+1.04671209619
+hamming loss
+0.598884066956
+
+dtc
+mean_squared_log_error
+1.18890043791
+hamming loss
+0.667389956603
+
+svm
+average model score
+0.4321140731556106
+average macrof1 score
+0.02532899009003088
+average microf1 score
+0.43211407315561057
+average weightedf1 score
+0.34014086769889784

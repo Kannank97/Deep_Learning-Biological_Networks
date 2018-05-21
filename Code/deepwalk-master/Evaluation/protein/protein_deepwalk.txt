@@ -1,0 +1,147 @@
+deep walk - protein
+
+-----------64 -------------
+rf
+mean_squared_log_error
+1.05126411238
+hamming loss
+0.535503875969
+
+knn
+mean_squared_log_error
+1.0416888172
+hamming loss
+0.564341085271
+
+dtc
+mean_squared_log_error
+1.21374599733
+hamming loss
+0.638604651163
+
+svm
+average model score
+0.42000000000000004
+average macrof1 score
+0.028945330616313728
+average microf1 score
+0.4200000000000001
+average weightedf1 score
+0.33186580281753564
+
+
+-------------------------------128--------------------
+rf
+mean_squared_log_error
+0.196249847645
+hamming loss
+0.618877867328
+
+knn
+mean_squared_log_error
+0.227843221855
+hamming loss
+0.645071295722
+
+dtc
+mean_squared_log_error
+0.275215340953
+hamming loss
+0.706757594544
+
+svm
+average model score
+0.3956912585244885
+average macrof1 score
+0.0490721073620374
+average microf1 score
+0.3956912585244885
+average weightedf1 score
+0.2515720561904437
+
+-----------------------------256--------------
+rf
+mean_squared_log_error
+1.35573738243
+hamming loss
+0.689863608184
+
+knn
+mean_squared_log_error
+1.51658813089
+hamming loss
+0.763019218847
+
+dtc
+mean_squared_log_error
+1.69247419135
+hamming loss
+0.777433353999
+
+svm
+average model score
+0.328580285182889
+average macrof1 score
+0.01878059854072263
+average microf1 score
+0.328580285182889
+average weightedf1 score
+0.19908950427238326
+
+-----------------------------512-----------------
+rf
+mean_squared_log_error
+1.28033993191
+hamming loss
+0.681649101054
+
+knn
+mean_squared_log_error
+1.46061298941
+hamming loss
+0.795257284563
+
+
+dtc
+mean_squared_log_error
+1.61691382392
+hamming loss
+0.805951642901
+
+svm
+average model score
+0.33261004339739614
+average macrof1 score
+0.021391679225556057
+average microf1 score
+0.33261004339739614
+average weightedf1 score
+0.21602050398088118
+----------------------1024----------------------
+rf
+mean_squared_log_error
+1.36620016868
+hamming loss
+0.685833849969
+
+knn
+mean_squared_log_error
+1.57591492714
+hamming loss
+0.73899566026
+
+dtc
+mean_squared_log_error
+1.55844898691
+hamming loss
+0.800216986981
+
+svm
+average model score
+0.32889026658400494
+average macrof1 score
+0.018743255852056266
+average microf1 score
+0.32889026658400494
+average weightedf1 score
+0.1986383003555746
